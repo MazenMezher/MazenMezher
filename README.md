@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MazenMezher
-- 👀 I’m interested in frontend development on websites but could also be interested in working with apps
-- 🌱 I’m currently learning ReactJs
+- 👀 I’m a software engineer
+- 🌱 I’m currently looking for a job as my last office shut down
 - 💞️ I’m looking to collaborate on any new challanges
 - 📫 How to reach me usbminnet@hotmail.com
 
